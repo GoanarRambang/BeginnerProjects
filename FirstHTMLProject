@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width-device-width, initial-scale=1"
+        
+    <title>My First Website! :)</title>
+     
+        <h1>My First Ever Website!</h1> 
+        <h2><u>This is my start in coding and <b>FINALLY</b> learning this new skill! :)</u><h2>
+            <h3> Introduction</h3>
+        <p>
+            Hello! My name is <i>Goanar Lam Rambang</i> and this is my first <br> <b>HTML PROJECT!!</b></br>
+            Im very excited in this journey of starting to code so hopefully you think
+            this webpage is as good as I do! :)
+        </p>
+<hr></hr>
+        <h1>Do you have a personal "GitHub Page"?</h1>
+             Yes I do! If you were interested in seeing the rest of my projects that I have finished or currently am working on, Here is a link to my GitHub here! <a href="https://github.com/GoanarRambang" target="_blank" >"Goanar's GitHub :)"</a> 
+        
+<hr></hr> 
+        <h1>What were your reasons to start coding?</h1>
+         <p>
+        Since a kid I was always a geek when it came to math and science and loved to play with
+        computers and gaming equipment all the time as a child! As time went on, I really dove into
+        music production and learn that side of the game and learned those interactions through a 
+        computer on my own! Since a child I also had a huge interest into computing and how everything in a computer would work. Since I am a avid learner, I developed interest into cybersecurity, but never took the time to dedicate myself into learning this skill of coding due to life circumstances. Now that I have had the time to free up my time, I am 110% committed into learning and embracing this new skill to change my life forever! :)
+        </p>
+    
+<hr></hr> 
+        <h1> Favorite Sports?</h1>
+        <p>
+        Oh yes! My favourite sports to watch and play are: 
+        <ol>
+            <li>Basketball</li>
+            <li>Football</li>
+            <li>Sometimes Baseball</li>
+        </ol>
+<hr></hr>
+        <h2>What Are Your Favourite Sports Teams by Chance?</h2>
+        I have a lot of sports team that I adore watching when it comes to my favorite sports, 
+        but here are a couple just to name a few.
+        <ol>
+            <li>Los Angeles Lakers</li>
+            <li>New England Patriots</li>
+            <li>New York Yankees</li> 
+        </ol>
+<hr></hr>
+        <h1>Favorite Music To Listen To?</h1>
+        Man, the list can go on and on all day if I wanted to! Music is my passion on a serious level so I could type for hours about this! :) But I'd rather just give up a few genres that I constantly listen to on a daily basis!
+        <ol>
+            <li>Hip Hop (obviously)</li>
+            <li>R&B (the classics though :)</li>
+            <li>EDM (Not the Hardcore stuff though haha!</li>
+        </ol>
+<hr></hr>
+        </head>
+        <h1>Any Last Words?</h1>
+        <p>  To be honest I don't! I just want to thank whoever took the time to actually read this project fully (I WORKED HARD ON IT HAHA!!) Besides that, if you were interested in checking out some more of my coding project, you can click the link here and it will direct you straight to my GitHub page where I save my work! Thanks! :) <a href="https://github.com/GoanarRambang" target="_blank" >"My GitHub Here! :)"</a> 
+        </p>   
+    </body>
+</html>
